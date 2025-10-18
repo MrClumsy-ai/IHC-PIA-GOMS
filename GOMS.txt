@@ -1,0 +1,8 @@
+GOAL: TITULO
+  [select GOAL: SUBTITULO1
+      AOEU
+      AOEU
+    GOAL: SUBTITULO2
+      AOEU
+      AOEU]
+
